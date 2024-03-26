@@ -23,3 +23,6 @@ generated/
 
 # Terraform
 **/.terraform/
+
+# pem files
+*.pem
